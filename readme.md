@@ -1,4 +1,4 @@
-# 🚗 Ford Car Price Predictor
+# Car Price Predictor
 
 A Machine Learning project focused on predicting the market prices of Ford cars using historical vehicle data. The project explores data analysis, visualization, categorical encoding, feature scaling, and Linear Regression to understand the factors influencing car prices.
 
